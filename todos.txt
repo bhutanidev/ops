@@ -1,9 +1,0 @@
-deployment.yml - done 
-ingress.yml - done
-ngnix load balancer - done
-nginx ingress controlller - done
-apply kubeseal operator on the cluster - done
-sealed secret.yml -done
-push to git hub
-configure argocd
-set up cicd
