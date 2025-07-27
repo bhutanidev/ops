@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: testbe.rotflix.xyz
+  - host: test.rotflix.xyz
     http:
       paths:
       - path: /
