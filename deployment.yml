@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: be-app
-        image: devbhutani10/sample-cicd:latest
+        image: devbhutani10/sample-cicd:045fb79501dc8ae3de3934df8e86f7dcad015f3c
         ports:
         - containerPort: 3000
         env:
